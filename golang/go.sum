@@ -1,4 +1,8 @@
-github.com/chai2010/tiff v0.0.0-20211005095045-4ec2aa243943 h1:CjuhVIUiyWQZVY4rmcvm/9R+60e/Wi6LkXyHU38MqXI=
-github.com/chai2010/tiff v0.0.0-20211005095045-4ec2aa243943/go.mod h1:FhMMqekobM33oGdTfbi65oQ9P7bnQ5/0EDfmleW35RE=
+github.com/hhrutter/lzw v1.0.0 h1:laL89Llp86W3rRs83LvKbwYRx6INE8gDn0XNb1oXtm0=
+github.com/hhrutter/lzw v1.0.0/go.mod h1:2HC6DJSn/n6iAZfgM3Pg+cP1KxeWc3ezG8bBqW5+WEo=
 github.com/skip2/go-qrcode v0.0.0-20200617195104-da1b6568686e h1:MRM5ITcdelLK2j1vwZ3Je0FKVCfqOLp5zO6trqMLYs0=
 github.com/skip2/go-qrcode v0.0.0-20200617195104-da1b6568686e/go.mod h1:XV66xRDqSt+GTGFMVlhk3ULuV0y9ZmzeVGR4mloJI3M=
+github.com/sunshineplan/tiff v0.0.0-20220128141034-29b9d69bd906 h1:+yYRCj+PGQNnnen4+/Q7eKD2J87RJs+O39bjtHhPauk=
+github.com/sunshineplan/tiff v0.0.0-20220128141034-29b9d69bd906/go.mod h1:O+Ar7ouRbdfxLgoZLFz447/dvdM1NVKk1VpOQaijvAU=
+golang.org/x/image v0.17.0 h1:nTRVVdajgB8zCMZVsViyzhnMKPwYeroEERRC64JuLco=
+golang.org/x/image v0.17.0/go.mod h1:4yyo5vMFQjVjUcVk4jEQcU9MGy/rulF5WvUILseCM2E=
